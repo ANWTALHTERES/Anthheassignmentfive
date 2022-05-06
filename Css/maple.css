@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(183deg, #d7ecf6 0%, #77aa87 100%);
+}
+
+#still {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 250px;
+    left: 700px;
+    
+}
+
+#heavy{
+
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 500px;
+    left: 700px;
+}
+#link {
+    width: 800px;
+    height: 800px;
+    
+}
+#homepagelink {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 40px;
+    left: 1300px;
+
+}
+#artlink {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 120px;
+    left: 1290px;
+
+}

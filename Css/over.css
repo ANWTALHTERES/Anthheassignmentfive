@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(183deg, #f988c1 0%, #b23ec4 100%);
+}
+
+#candy {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 250px;
+    left: 800px;
+    
+}
+
+#karma{
+
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 500px;
+    left: 800px;
+}
+#link {color: rgb(255, 228, 251);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    top: 40px;
+    
+    
+}
+
+#homepagelink {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 46px;
+    left: 1300px;
+
+}
+#artlink {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 120px;
+    left: 1290px;
+
+}

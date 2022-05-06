@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(183deg, #FFBA29 0%, #F8FCFF 100%);
+}
+
+#oj {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 250px;
+    left: 750px;
+    
+}
+
+#moon{
+
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 500px;
+    left: 750px;
+}
+#link {color: rgb(247, 157, 93);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    top: 40px;
+    
+    
+}
+#homepagelink {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 40px;
+    left: 1300px;
+
+}
+
+#art
+{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 120px;
+    left: 1290px;
+
+}

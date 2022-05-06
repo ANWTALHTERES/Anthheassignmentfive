@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(183deg, #fffafd 0%, #e22323 100%);
+}
+
+#wiss {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 250px;
+    left: 700px;
+    
+}
+
+#story{
+
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 500px;
+    left: 700px;
+}
+#link {
+    width: 800px;
+    height: 800px;
+    
+}
+#homepagelink {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 40px;
+    left: 1300px;
+
+}
+#artlink {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 120px;
+    left: 1290px;
+
+}

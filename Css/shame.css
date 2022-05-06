@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(183deg, #f2bde0 0%, #f548a4 100%);
+}
+
+#overit {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 250px;
+    left: 700px;
+    
+}
+
+#tee {
+
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 500px;
+    left: 700px;
+}
+#link {
+    width: 800px;
+    height: 800px;
+    
+}
+#homepagelink {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 40px;
+    left: 1300px;
+
+}
+#artlink {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 120px;
+    left: 1290px;
+
+}
